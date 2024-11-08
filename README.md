@@ -5,7 +5,7 @@ This is the Diagram that is used to understand the working of the Project.
 <br>
 It is a Saas Application that is used to get the user suggestion for the praticular image by the compnay and reward the user with the amount in the form of Crypto.
 <br>
-##Letting user Upload a Photo:(Concept of Presigned URL)
+## Letting user Upload a Photo:(Concept of Presigned URL)
 PresignedUrl to get the image uploaded in the AWS server:<br>
 1) Security issue, so never upload the image directly to the Backend<br>
 2) Backend Approach also donot allow to have multiple backend so the image ideally must go to the AWS cloud.<br>
