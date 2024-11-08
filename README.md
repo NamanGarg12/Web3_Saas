@@ -26,4 +26,7 @@ Presigned URL to get the image uploaded in the AWS server:
 
 ## Allowing Labellers to pay $s to their own wallet
 
+1. Helper Frontend will make the request to the backend to send the money, to the users wallet.
+2. To ensure if the transaction have made successfully then we need to verify the transaction again and again till the updation that the money has transfered have made in the Database.
+3. 
 
