@@ -22,5 +22,6 @@ Presigned URL to get the image uploaded in the AWS server:
 1. **After making the transaction the user gets the transaction signature of that Transaction, which can be used for the verification of the Transaction.
 2. **Flaw :  If the Transaction has been made but the task has not been done of getting the image due to some netwrok isse and someone else comes and claims that the transaction has been made by him, then it camnot be figured out who have made the Transaction.
 3. **We then need to Connect the wallet address with the Saas so that the DataBase can verify if the Transaction Signature is Associated to that user.
-![Payment Diagram]()
+![Payment Diagram](https://github.com/NamanGarg12/Web3_Saas/blob/main/Screenshot%202024-11-08%20231522.png)
+
 
