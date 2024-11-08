@@ -32,3 +32,22 @@ Presigned URL to get the image uploaded in the AWS server:
 4. Worker will keep checking if the transaction is successfully completed.
 ![Allowing Lavellers to day Diagram](https://github.com/NamanGarg12/Web3_Saas/blob/main/Screenshot%202024-11-09%20010328.png)
 
+## Steps to Follow:
+### Web2 bits
+1. Create a Node.js Express backend
+2. Create aws credentials
+3. Create 2 frontends
+4. Design the schema
+5. Support following endpoints:
+   a. GET/generate PresignedUrl
+   b. Let users upload images via frontend 1
+   c. POST /task
+   d. Get /task
+6. Support the endpoints of the other side
+   a. Get /nexttask
+   b. POST/ submission
+   c. Get /balance
+   d. Post /payout => dummy for now
+
+### Web3 bits
+   
