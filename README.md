@@ -30,4 +30,5 @@ Presigned URL to get the image uploaded in the AWS server:
 2. To ensure if the transaction have made successfully then we need to verify the transaction again and again till the updation that the money has transfered have made in the Database.
 3. Lock Algoruthm : Locking the Request mechanism that till the time the update on the transaction status is not yet provided till than another request can't be made again.
 4. Worker will keep checking if the transaction is successfully completed.
-![Allowing Lavellers to day Diagram]()
+![Allowing Lavellers to day Diagram](https://github.com/NamanGarg12/Web3_Saas/blob/main/Screenshot%202024-11-09%20010328.png)
+
