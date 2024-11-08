@@ -53,5 +53,5 @@ Presigned URL to get the image uploaded in the AWS server:
 
 Codes:<br> 
 npm init -y: used to create new package.json file for Node.js project<br>
-npx tsc --init : used to get the typescript file for the Project
+npx tsc --init : used to get the typescript file for the Project<br>
 npm install express @types/express : To install the Express framework along with its TypeScript type definitions.
