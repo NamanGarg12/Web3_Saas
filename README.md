@@ -19,4 +19,7 @@ Presigned URL to get the image uploaded in the AWS server:
 
 ## Letting User Pay and Verify Payment to the Backend: (Web2 + Web3 concept)
 
+1. **After making the transaction the user gets the transaction signature of that Transaction, which can be used for the verification of the Transaction.
+2. **
+
 
