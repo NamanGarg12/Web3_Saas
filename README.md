@@ -50,4 +50,8 @@ Presigned URL to get the image uploaded in the AWS server:
    d. Post /payout => dummy for now
 
 ### Web3 bits
+
+Codes: 
+npm init -y: used to create new package.json file for Node.js project
+npx tsc --init : used to get the typescript file for the Project
    
