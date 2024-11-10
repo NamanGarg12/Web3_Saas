@@ -51,6 +51,12 @@ Presigned URL to get the image uploaded in the AWS server:
 
 ### Web3 bits
 
+
+## Issues Faced :
+1. Portgre and neon console connection :
+   Issue: Files where not in proper structure that is prisma file must be in backend but was outside backend due to which package.json was misasing and unable top connect
+
+
 Codes:<br> 
 npm init -y: used to create new package.json file for Node.js project<br>
 npx tsc --init : used to get the typescript file for the Project<br>
